@@ -4,6 +4,9 @@ Created By: Wilson Ho
 Date: Apr. 27, 2016
 Contact: wilson.ho.12@cnu.edu
 
+GitHub Link:
+https://github.com/kouko12/CapstoneFinalProject
+
 Software Used:
 -Visual Studio Community 2015
 -PgAdmin III (Version 1.22.0)
