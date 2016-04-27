@@ -1,0 +1,2 @@
+﻿/* use for asterisk marker*/
+.required:after { content:" *"; }

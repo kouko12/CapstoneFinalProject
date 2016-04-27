@@ -1,0 +1,8 @@
+﻿/* Used for dropdown list of schools*/
+.myselect {
+    width:150px;
+ }
+
+.myselect option {
+    width:auto;
+}
